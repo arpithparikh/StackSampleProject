@@ -21,6 +21,7 @@ public class bignum {
 	public static void main(String args[])
 	{
 			//Input fileName should write here
+			//keep your file as a reference check the readme for the input
 		   String fileName = "C:/Interview/Proj1/src/p1.txt";	
 		   String line=null;
 		   String string="";
